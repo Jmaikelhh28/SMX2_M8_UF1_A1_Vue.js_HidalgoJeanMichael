@@ -1,5 +1,5 @@
 # SMX2_M8_UF1_A1_Vue.js_HidalgoJeanMichael
-##Vue.js
+## Vue.js
 
 Es un framework progresivo de JavaScript de código abierto, muy popular por su facilidad de aprendizaje y su versatibilidad para construir interfacees de usuario y aplicaciones web de una sola página.
 
